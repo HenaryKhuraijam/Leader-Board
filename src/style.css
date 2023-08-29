@@ -5,7 +5,7 @@
 }
 
 header {
-  padding: 20px 30px;
+  padding: 20px 30px; 
 }
 
 main,
@@ -55,7 +55,7 @@ form input {
 }
 
 .leaders:nth-child(even) {
-  background-color: #dfdfdf;
+  background-color: hsl(176, 90%, 92%);
 }
 
 .btn-submit {
